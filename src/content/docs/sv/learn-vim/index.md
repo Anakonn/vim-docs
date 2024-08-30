@@ -22,7 +22,7 @@ Denna guide är och kommer alltid att vara gratis.
 
 Om du vill stödja detta projekt ekonomiskt kan du [köpa denna guide på Leanpub](https://leanpub.com/learnvim).
 
-<a href="https://leanpub.com/learnvim"><img src="/vim/images/learn-vim-cover.png" width="100"></a>
+<a href="https://leanpub.com/learnvim"><img src="/images/learn-vim-cover.png" width="100"></a>
 
 ## Innehållsförteckning
 

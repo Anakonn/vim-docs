@@ -22,7 +22,7 @@ _یادگیری Vim (به روش هوشمند)_ راهنمایی برای یاد
 
 اگر می‌خواهید از این پروژه به صورت مالی حمایت کنید، می‌توانید [این راهنما را در Leanpub خریداری کنید](https://leanpub.com/learnvim).
 
-<a href="https://leanpub.com/learnvim"><img src="/vim/images/learn-vim-cover.png" width="100"></a>
+<a href="https://leanpub.com/learnvim"><img src="/images/learn-vim-cover.png" width="100"></a>
 
 ## فهرست مطالب
 

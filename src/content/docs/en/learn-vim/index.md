@@ -6,7 +6,7 @@ title: Learn Vim (the Smart Way)
 
 ## What's This?
 
-*Learn Vim (the Smart Way)* is a guide to learn the good parts of Vim.
+_Learn Vim (the Smart Way)_ is a guide to learn the good parts of Vim.
 
 There are many places to learn Vim: the `vimtutor` is a great place to start and the `help` manual has all the references you will ever need. However, the average user needs something more than `vimtutor` and less than the `help` manual. This guide attempts to bridge that gap by highlighting only the key features to learn the most useful parts of Vim in the least time possible.
 
@@ -22,37 +22,37 @@ This guide is and will always be free.
 
 If you want to financially support this project, you can [purchase this guide on Leanpub](https://leanpub.com/learnvim).
 
-<a href="https://leanpub.com/learnvim"><img src="/vim/images/learn-vim-cover.png" width="100"></a>
+<a href="https://leanpub.com/learnvim"><img src="/images/learn-vim-cover.png" width="100"></a>
 
 ## Table Of Contents
 
 ### Prologue
 
-- [Ch 0     - Read This First](ch00_read_this_first)
+- [Ch 0 - Read This First](ch00_read_this_first)
 
 ### Part 1: Learn Vim the Smart Way
 
-- [Ch 1     - Starting Vim](ch01_starting_vim)
-- [Ch 2     - Buffers, Windows, and Tabs](ch02_buffers_windows_tabs)
-- [Ch 3     - Opening and Searching Files](ch03_searching_files)
-- [Ch 4     - Vim Grammar](ch04_vim_grammar)
-- [Ch 5     - Moving in a File](ch05_moving_in_file)
-- [Ch 6     - Insert Mode](ch06_insert_mode)
-- [Ch 7     - The Dot command](ch07_the_dot_command)
-- [Ch 8     - Registers](ch08_registers)
-- [Ch 9     - Macros](ch09_macros)
-- [Ch 10    - Undo](ch10_undo)
-- [Ch 11    - Visual Mode](ch11_visual_mode)
-- [Ch 12    - Search and Substitute](ch12_search_and_substitute)
-- [Ch 13    - The Global Command](ch13_the_global_command)
-- [Ch 14    - External Commands](ch14_external_commands)
-- [Ch 15    - Command-line Mode](ch15_command-line_mode)
-- [Ch 16    - Tags](ch16_tags)
-- [Ch 17    - Fold](ch17_fold)
-- [Ch 18    - Git](ch18_git)
-- [Ch 19    - Compile](ch19_compile)
-- [Ch 20    - Views, Sessions, and Viminfo](ch20_views_sessions_viminfo)
-- [Ch 21    - Multiple File Operations](ch21_multiple_file_operations)
+- [Ch 1 - Starting Vim](ch01_starting_vim)
+- [Ch 2 - Buffers, Windows, and Tabs](ch02_buffers_windows_tabs)
+- [Ch 3 - Opening and Searching Files](ch03_searching_files)
+- [Ch 4 - Vim Grammar](ch04_vim_grammar)
+- [Ch 5 - Moving in a File](ch05_moving_in_file)
+- [Ch 6 - Insert Mode](ch06_insert_mode)
+- [Ch 7 - The Dot command](ch07_the_dot_command)
+- [Ch 8 - Registers](ch08_registers)
+- [Ch 9 - Macros](ch09_macros)
+- [Ch 10 - Undo](ch10_undo)
+- [Ch 11 - Visual Mode](ch11_visual_mode)
+- [Ch 12 - Search and Substitute](ch12_search_and_substitute)
+- [Ch 13 - The Global Command](ch13_the_global_command)
+- [Ch 14 - External Commands](ch14_external_commands)
+- [Ch 15 - Command-line Mode](ch15_command-line_mode)
+- [Ch 16 - Tags](ch16_tags)
+- [Ch 17 - Fold](ch17_fold)
+- [Ch 18 - Git](ch18_git)
+- [Ch 19 - Compile](ch19_compile)
+- [Ch 20 - Views, Sessions, and Viminfo](ch20_views_sessions_viminfo)
+- [Ch 21 - Multiple File Operations](ch21_multiple_file_operations)
 
 ### Part 2: Customize Vim the Smart Way
 
@@ -69,10 +69,12 @@ If you want to financially support this project, you can [purchase this guide on
 - [Ch 29 - Plugin Example: Writing a Titlecase Plugin](ch29_plugin_example_writing-a-titlecase-plugin)
 
 ## Translations
+
 - [Learn-Vim 中文翻译](https://github.com/wsdjeg/Learn-Vim_zh_cn)(`zh-CN`)
 - [Learn-Vim Spanish](https://github.com/victorhck/learn-Vim-es)(`es`)
 
 ## License & Copyright
+
 The materials here are all © 2020-2021 Igor Irianto.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" /></a><br />
