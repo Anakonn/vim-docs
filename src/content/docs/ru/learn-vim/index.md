@@ -22,7 +22,7 @@ _Учите Vim (умным способом)_ — это руководство
 
 Если вы хотите финансово поддержать этот проект, вы можете [купить это руководство на Leanpub](https://leanpub.com/learnvim).
 
-<a href="https://leanpub.com/learnvim"><img src="/images/learn-vim-cover.png" width="100"></a>
+<a href="https://leanpub.com/learnvim"><img src="/vim/images/learn-vim-cover.png" width="100"></a>
 
 ## Содержание
 
