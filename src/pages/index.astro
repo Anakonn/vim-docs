@@ -1,5 +1,5 @@
 ---
-const path = `${Astro.url.pathname}en/`;
+const base = import.meta.env.BASE_URL;
 ---
 
-<meta http-equiv='refresh' content=`0;url=${path}` />
+<meta http-equiv='refresh' content=`0;url=${base}en/` />

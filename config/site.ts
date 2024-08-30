@@ -1,5 +1,5 @@
 export const siteConfig = {
-	title: 'DocsForAll-Vim',
+	title: 'Vim',
 	url: 'https://docsforall.com/',
 	base: '/vim',
 	googleAdsSrc:
