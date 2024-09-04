@@ -21,7 +21,7 @@ Vimを学ぶ場所はたくさんあります：`vimtutor`は始めるのに最�
 
 このプロジェクトを経済的にサポートしたい場合は、[Leanpubでこのガイドを購入する](https://leanpub.com/learnvim)ことができます。
 
-<a href="https://leanpub.com/learnvim"><img src="/vim/images/learn-vim-cover.png" width="100"></a>
+<a href="https://leanpub.com/learnvim"><img src="/images/learn-vim-cover.png" width="100"></a>
 
 ## 目次
 
