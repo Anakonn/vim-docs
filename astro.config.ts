@@ -6,7 +6,6 @@ import { siteConfig } from "./config/site";
 // https://astro.build/config
 export default defineConfig({
 	site: siteConfig.url,
-	base: siteConfig.base,
 	trailingSlash: "always",
 	integrations: [
 		starlight({
